@@ -1,9 +1,9 @@
 # ajax
 step 1
-Clone Repository:  git clone <repository-url>
+Clone Repository:  git clone repository-url
 
 step 2
-Navigate to Directory:  cd <repository-directory>
+Navigate to Directory:  cd repository-directory
 
 step 3
 Update API Key:  Open the script.js file in a text editor. Replace the placeholder API key with your WeatherAPI.com API key.
